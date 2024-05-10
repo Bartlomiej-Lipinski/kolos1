@@ -1,3 +1,5 @@
+using Kolos1.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddEndpointsApiExplorer();
